@@ -1,0 +1,20 @@
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+  }
+
+.win-img{
+
+
+    width: 400px;
+    height: 400px;
+    text-align: center;
+   
+   margin: auto;
+
+    
+
+  }
